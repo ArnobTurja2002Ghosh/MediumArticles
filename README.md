@@ -8,3 +8,5 @@
 
 [Mastering 3D spaces](https://medium.com/red-buffer/mastering-3d-spaces-a-comprehensive-guide-to-coordinate-system-conversions-in-opencv-colmap-ef7a1b32f2df)
   - Talks about coordination system of OpenCV
+
+[reprojection error](https://alphapixeldev.com/opencv-tutorial-part-1-camera-calibration/)
