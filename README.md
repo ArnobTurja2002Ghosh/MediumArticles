@@ -10,3 +10,5 @@
   - Talks about coordination system of OpenCV
 
 [reprojection error](https://alphapixeldev.com/opencv-tutorial-part-1-camera-calibration/)
+
+[Nikon 18-55mm Optical Features](https://photographylife.com/reviews/nikon-18-55mm-dx-vr-af-p/2)
