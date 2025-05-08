@@ -12,3 +12,5 @@
 [reprojection error](https://alphapixeldev.com/opencv-tutorial-part-1-camera-calibration/)
 
 [Nikon 18-55mm Optical Features](https://photographylife.com/reviews/nikon-18-55mm-dx-vr-af-p/2)
+
+[Using ChArUco boards in OpenCV](https://medium.com/@ed.twomey1/using-charuco-boards-in-opencv-237d8bc9e40d)
